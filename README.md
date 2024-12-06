@@ -14,7 +14,7 @@ This project is designed to be an interface for an employer to view and manage t
 
 ## Installation
 
-The project repository is located at https://github.com/Wyatt7709/WeatherTracker and can be accessed there. You will need to clone the repository and run the application with a command line interface.
+The project repository is located at https://github.com/Wyatt7709/EmployeeTracker and can be accessed there. You will need to clone the repository and run the application with a command line interface.
 
 ## Usage
 
